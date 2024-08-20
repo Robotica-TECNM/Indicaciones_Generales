@@ -11,9 +11,9 @@ Los espero puntuales con laptop *(Windows)* para que podamos hacer la primera pr
 
 La rubrica de trabajo se las pondré en otro repositorio ya que todos nos encontremos en la organización de GitHub
 
-**Contacto:**
-Ing. Juan David López Regalado
-**Email:** juan.lr@morelia.tecnm.mx
-**GitHub:** JuanDavid2207
+**Contacto:**<br>
+Ing. Juan David López Regalado<br>
+**Email:** juan.lr@morelia.tecnm.mx<br>
+**GitHub:** JuanDavid2207<br>
 
 Saludos :)
