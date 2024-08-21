@@ -9,7 +9,7 @@ El laboratorio se encuentra en el edificio T del Instituto como se muestra en la
 
 Los espero puntuales con laptop *(Windows)* para que podamos hacer la primera práctica que consta en la instalación del programa Epson RC+ y los primeros movimientos con el robot. *(Descargar el archivo comprimido de la sección de archivos de teams)*
 
-La rubrica de trabajo se las pondré en otro repositorio ya que todos nos encontremos en la organización de GitHub
+La rubrica de trabajo están en el repositorio: https://github.com/Robotica-TECNM/Rubricas 
 
 **Contacto:**<br>
 Ing. Juan David López Regalado<br>
