@@ -15,5 +15,6 @@ La rubrica de trabajo se las pondré en otro repositorio ya que todos nos encont
 Ing. Juan David López Regalado<br>
 **Email:** juan.lr@morelia.tecnm.mx<br>
 **GitHub:** JuanDavid2207<br>
+**Teams:** Juan David López Regalado
 
 Saludos :)
