@@ -7,7 +7,7 @@ El laboratorio se encuentra en el edificio T del Instituto como se muestra en la
 
 ![Mapa](Ubicacion.jpeg)
 
-Los espero puntuales con laptop *(Windows)* para que podamos hacer la primera práctica que consta en la instalación del programa Epson RC+ y los primeros movimientos con el robot.
+Los espero puntuales con laptop *(Windows)* para que podamos hacer la primera práctica que consta en la instalación del programa Epson RC+ y los primeros movimientos con el robot. *(Descargar el archivo comprimido de la sección de archivos de teams)*
 
 La rubrica de trabajo se las pondré en otro repositorio ya que todos nos encontremos en la organización de GitHub
 
